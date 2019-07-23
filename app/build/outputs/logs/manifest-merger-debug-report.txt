@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\aa05104721ee1581fdb448471c91612c\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\27f37b80a39899858f2e3925c9048136\AndroidManifest.xml:14:4-17:12
+INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:8:5-84
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:8:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\aa05104721ee1581fdb448471c91612c\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\aa05104721ee1581fdb448471c91612c\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\27f37b80a39899858f2e3925c9048136\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\27f37b80a39899858f2e3925c9048136\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.dylan_wang.capturescreen.MainActivity
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:18:9-29:20
+	android:label
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:23:27-74
+intent-filter#action:name:android.intent.action.MEDIA_MOUNTED+data:scheme:file
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:26:25-75
+data
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:27:17-47
+	android:scheme
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:27:23-44
+service#com.dylan_wang.capturescreen.ScreenService
+ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:37:9-38:19
+	android:name
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml:37:18-47
+uses-sdk
+INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\aa05104721ee1581fdb448471c91612c\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\aa05104721ee1581fdb448471c91612c\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\27f37b80a39899858f2e3925c9048136\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\wangyan\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\27f37b80a39899858f2e3925c9048136\AndroidManifest.xml:15:5-42
+INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\ThinkTime\ThinkTime\Viewshot\app\src\main\AndroidManifest.xml
