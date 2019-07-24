@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
 	/**
 	 * 借鉴地址 http://blog.csdn.net/zdy0_2004/article/details/48979903
 	 * 本项目借鉴 一种全新的截屏方法并自己修改去掉悬浮按钮做成后台实时运行截图方式
-	 * 保存路径： getSDCardPath() + "/text7/ScreenImage";
+	 * 保存路径： getSDCardPath() + "/CaptureScreen/ScreenImages";
 	 * 欢迎大家学习。
 	 *  一种全新的截屏方法
 	 * 
@@ -50,14 +50,12 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		try {
-
 			mMediaProjectionManager = (MediaProjectionManager) getApplication()
 					.getSystemService(Context.MEDIA_PROJECTION_SERVICE);
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
 		}
-
 		startIntent();
 	}
 
@@ -124,12 +122,12 @@ public class MainActivity extends Activity {
 			// 得到MyService类型的service对象
 			flag = true;
 			myService = ((ScreenService.MsgBinder) service).getService();
-			// 监听进度值改变功�?
+			// 监听进度值改变功
 			myService.setOnProgressListener(new OnProgressListener() {
 				@Override
 				public void onProgress(Bitmap bitmap) {
 					progress++;
-					String SavePath = getSDCardPath() + "/text7/ScreenImage";
+					String SavePath = getSDCardPath() + "/CaptureScreen/ScreenImages";
 					if (bitmap != null) {
 
 						try {
@@ -194,7 +192,7 @@ public class MainActivity extends Activity {
 	};
 
 	/**
-	 * 获取SDCard的目录路径功�?
+	 * 获取SDCard的目录路径
 	 * 
 	 * @return
 	 */
