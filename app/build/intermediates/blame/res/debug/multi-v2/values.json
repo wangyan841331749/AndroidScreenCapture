@@ -1,8 +1,44 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Projects\\ThinkTime\\ThinkTime\\Viewshot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\Projects\\ThinkTime\\ThinkTime\\AndroidScreenCapture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "E:\\Projects\\ThinkTime\\ThinkTime\\AndroidScreenCapture\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "184"
+                    },
+                    "to": {
+                        "startLines": "136",
+                        "startColumns": "4",
+                        "startOffsets": "9010",
+                        "endLines": "138",
+                        "endColumns": "12",
+                        "endOffsets": "9135"
+                    }
+                },
+                {
+                    "source": "E:\\Projects\\ThinkTime\\ThinkTime\\AndroidScreenCapture\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "90,149,208",
+                        "endColumns": "57,55,59",
+                        "endOffsets": "143,200,263"
+                    },
+                    "to": {
+                        "startLines": "98,99,106",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6572,6630,7130",
+                        "endColumns": "57,55,59",
+                        "endOffsets": "6625,6681,7185"
+                    }
+                },
                 {
                     "source": "C:\\Users\\wangyan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\aa05104721ee1581fdb448471c91612c\\res\\values\\values.xml",
                     "from": {
@@ -23,7 +59,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Projects\\ThinkTime\\ThinkTime\\Viewshot\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\Projects\\ThinkTime\\ThinkTime\\AndroidScreenCapture\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "5,3,4",
                         "startColumns": "4,4,4",
@@ -37,42 +73,6 @@
                         "startOffsets": "8858,8911,8957",
                         "endColumns": "52,45,52",
                         "endOffsets": "8906,8952,9005"
-                    }
-                },
-                {
-                    "source": "E:\\Projects\\ThinkTime\\ThinkTime\\Viewshot\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3,5",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "90,149,208",
-                        "endColumns": "57,55,59",
-                        "endOffsets": "143,200,263"
-                    },
-                    "to": {
-                        "startLines": "98,99,106",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "6572,6630,7130",
-                        "endColumns": "57,55,59",
-                        "endOffsets": "6625,6681,7185"
-                    }
-                },
-                {
-                    "source": "E:\\Projects\\ThinkTime\\ThinkTime\\Viewshot\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "184"
-                    },
-                    "to": {
-                        "startLines": "136",
-                        "startColumns": "4",
-                        "startOffsets": "9010",
-                        "endLines": "138",
-                        "endColumns": "12",
-                        "endOffsets": "9135"
                     }
                 }
             ]

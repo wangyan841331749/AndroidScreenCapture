@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Projects\\ThinkTime\\ThinkTime\\Viewshot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms-rMY\\values-ms-rMY.xml",
+            "outputFile": "E:\\Projects\\ThinkTime\\ThinkTime\\AndroidScreenCapture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms-rMY\\values-ms-rMY.xml",
             "map": [
                 {
                     "source": "C:\\Users\\wangyan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\aa05104721ee1581fdb448471c91612c\\res\\values-ms-rMY\\values.xml",

@@ -1,7 +1,7 @@
-#Tue Jul 23 20:42:18 CST 2019
-base.0=E\:\\Projects\\ThinkTime\\ThinkTime\\Viewshot\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+#Wed Jul 24 10:20:18 CST 2019
+base.0=E\:\\Projects\\ThinkTime\\ThinkTime\\AndroidScreenCapture\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=E\:\\Projects\\ThinkTime\\ThinkTime\\Viewshot\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+base.1=E\:\\Projects\\ThinkTime\\ThinkTime\\AndroidScreenCapture\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
